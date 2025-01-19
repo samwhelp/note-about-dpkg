@@ -4,8 +4,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Dpkg 探索筆記](https://samwhelp.github.io/note-about-dpkg/) | [GitHub](https://gi
-| [Deb 探索筆記](https://samwhelp.github.io/note-about-dpkg/) | [GitHub](https://github.com/samwhelp/note-about-deb) |
+| [Dpkg 探索筆記](https://samwhelp.github.io/note-about-dpkg/) | [GitHub](https://github.com/samwhelp/note-about-dpkg) |
+| [Deb 探索筆記](https://samwhelp.github.io/note-about-deb/) | [GitHub](https://github.com/samwhelp/note-about-deb) |
 | [Apt 探索筆記](https://samwhelp.github.io/note-about-apt/) | [GitHub](https://github.com/samwhelp/note-about-apt) |
 
 
